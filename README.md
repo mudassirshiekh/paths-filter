@@ -14,6 +14,7 @@ don't allow this because they don't work on a level of individual jobs or steps.
 - [blog post Configuring python linting to be part of CI/CD using GitHub actions](https://dev.to/freshbooks/configuring-python-linting-to-be-part-of-cicd-using-github-actions-1731#what-files-does-it-run-against) - [py_linter.yml](https://github.com/iamtodor/demo-github-actions-python-linter-configuration/blob/main/.github/workflows/py_linter.yml#L31)
 
 ## Supported workflows
+## By Mudassir Alam
 
 - **Pull requests:**
   - Workflow triggered by **[pull_request](https://docs.github.com/en/actions/reference/events-that-trigger-workflows#pull_request)**
